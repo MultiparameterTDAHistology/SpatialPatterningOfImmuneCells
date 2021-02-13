@@ -1,6 +1,6 @@
 # Spatial Patterning of Immune Cells
 
-This repository contains example code to accompany the computational paper ..., in which we analyse the spatial patterning of immune cells in tumours using topological techniques.
+This repository contains example code to accompany the computational topology paper [INSERT LINK], in which we analyse the spatial patterning of immune cells in tumours using topological techniques.
 
 The complete pipeline for our analysis from histology image to topological observations can be broken down into four main steps:
 
