@@ -20,7 +20,7 @@ https://github.com/JABull1066/ImageAnalysisScripts
 https://github.com/rivetTDA/rivet
 
 **Multiparameter Landscape Computation**
-https://github.com/OliverVipond/Multiparameter_Persistence_Landscapes detailed in notebook *Example Writing RIVET Input, Computing Multiparameter Persistence and Landscapes*
+https://github.com/OliverVipond/Multiparameter_Persistence_Landscapes detailed in notebook `Example Writing RIVET Input, Computing Multiparameter Persistence and Landscapes.ipynb`
 
 **Statistical Analysis and Classification**
-https://scikit-learn.org/stable/ detailed in notebook *Example Small Sample Statistical Analysis*
+https://scikit-learn.org/stable/ detailed in notebook `Example Small Sample Statistical Analysis.ipynb`
