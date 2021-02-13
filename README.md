@@ -9,7 +9,7 @@ The complete pipeline for our analysis from histology image to topological obser
 3. Multiparameter Landscape Computation
 4. Statistical Analysis and Classification
 
-In this repository we provide example notebooks detailing the novel part of this pipeline: steps 3 and 4.
+In this repository we provide example notebooks detailing the novel part of this pipeline: steps 3 and 4. HTML versions of the notebooks are available for ease of access.
 
 Scripts and software to perform all four steps of our analysis are outlined below. 
 
