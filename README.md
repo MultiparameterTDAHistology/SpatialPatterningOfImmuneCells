@@ -33,3 +33,6 @@ Available at https://drive.google.com/file/d/1JtjlKyvLVLt-OueOVFhkQ3W1T5witpUj/v
 
 **1.5mm Pointclouds**
 Contained in repository `1.5mmRegions.zip`
+
+**Large tumor regions with hypoxia stains**
+Contained in repository `LargeHypoxicRegion.csv`, `LargeHypoxicRegion2.csv`
