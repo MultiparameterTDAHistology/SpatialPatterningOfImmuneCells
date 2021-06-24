@@ -25,5 +25,11 @@ https://github.com/OliverVipond/Multiparameter_Persistence_Landscapes detailed i
 **Statistical Analysis and Classification**
 https://scikit-learn.org/stable/ detailed in notebook `Example Small Sample Statistical Analysis.ipynb`
 
+
+### Data availability
+
 **ABM data**
 Available at https://drive.google.com/file/d/1JtjlKyvLVLt-OueOVFhkQ3W1T5witpUj/view?usp=sharing
+
+**1.5mm Pointclouds**
+Contained in repository `1.5mmRegions.zip`
